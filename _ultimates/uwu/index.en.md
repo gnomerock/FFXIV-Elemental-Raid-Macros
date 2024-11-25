@@ -50,6 +50,9 @@ The various phases can be broken down as follows:
 - You can fix the tank invuln sequence in Ultima by choosing to tank swap 
   Ifrit's second set of Incinerates instead of using the MT invuln there
   (although this isn't usually practiced).
+- Select how to build LB
+  - [Mitigate tank Purge in ultimate phase](https://ffxiv.tuufless.com/ultimates/uwu/04a_predation/#building-lb-at-tank-purge)
+  - [Cheese with mitigaitions in Ultimate Predation](https://ffxiv.tuufless.com/ultimates/uwu/04a_predation/#frequently-asked-questions)
 
 ---
 
